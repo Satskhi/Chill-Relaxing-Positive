@@ -1,3 +1,6 @@
+.icon-room { 
+	width: 75px !important;
+}
 .app-header, #footer-user .info, #dashboard {
     background: rgba(61,84,119,10) !important;
 }
